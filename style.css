@@ -1,0 +1,20 @@
+body {
+  /* m */
+  margin: ;
+  /* p */
+  padding: ;
+  /* m10 */
+  margin: 10px;
+  /* ma10p */
+  margin: 10%;
+  /* m10r */
+  margin: 10rem;
+  /* m10p20p */
+  margin: 10% 20%;
+  /* m10-20-30 */
+  margin: 10px 20px 30px;
+  /* m0-a */
+  margin: 0 auto;
+  /* mb-10 */
+  margin-bottom: -10px;
+}
