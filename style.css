@@ -17,4 +17,15 @@ body {
   margin: 0 auto;
   /* mb-10 */
   margin-bottom: -10px;
+
+  /* fsz */
+  font-size: ;
+  /* cusp */
+  cursor: pointer;
+  /* fwb */
+  font-weight: bold;
+  /* pos:a */
+  position: absolute;
+  /* pos:r */
+  position: relative;
 }
